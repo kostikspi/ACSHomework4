@@ -1,3 +1,5 @@
+
+
 global ReadStringFromFile
 global ReadIntegerFromFile
 global ReadBooleanFromFile
